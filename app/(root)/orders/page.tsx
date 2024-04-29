@@ -80,3 +80,4 @@ const Orders = async () => {
 
 export default Orders;
 
+export const dynamic = "force-dynamic";
